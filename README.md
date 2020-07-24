@@ -2,4 +2,5 @@
 #### Organises files from a directory and it's sub directories into a directory "organised files" according to their type.
 
 ##### Install node on your machine
-##### Run "node organiser.js [path of directory to be organised]"
+##### Run "node organiser.js [path of directory to be organised]" in the directory where you have exists organiser.js.
+
